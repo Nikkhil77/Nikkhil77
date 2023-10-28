@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nikhil Kumar
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Data Analysis with Excel, Tableau , Power BI, SQL
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me nsnikhil2712@gmail.com
